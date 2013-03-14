@@ -1,6 +1,6 @@
-screen 0,800,600
+﻿screen 0,800,600
 
-	title "�ӂ����[�ɂ��񂵂Ⴗ��Ȃɂ�"
+	title "ふぉろわーにかんしゃするなにか"
 	
 	font msgothic,64
-	mes "���肪�Ƃ��������܂�!!!!"
+	mes "ありがとうございます!!!!"
